@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--especifica los directorios que contienen los archivos que deseas
+    compartir.-->
+    <external-path
+        name="my_images"
+        path="Android/data/pe.edu.idat.apppermisocamara/files/Pictures"/>
+</paths>
